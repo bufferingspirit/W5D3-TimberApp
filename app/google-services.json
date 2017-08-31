@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "462716945501",
+    "firebase_url": "https://timberapp-756b0.firebaseio.com",
+    "project_id": "timberapp-756b0",
+    "storage_bucket": "timberapp-756b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462716945501:android:5d9452b8b90a1268",
+        "android_client_info": {
+          "package_name": "com.example.admin.timberapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462716945501-hjfbv3t8hl9qseunlokdhpae6up19l83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.timberapp",
+            "certificate_hash": "1871c30b713494f556c5a313968beec87ecbf512"
+          }
+        },
+        {
+          "client_id": "462716945501-hcn49hb16096go0tv4jh09054o13uol5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDfcsqMlCkw878jyosa8nPokyeSTib67Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462716945501-hcn49hb16096go0tv4jh09054o13uol5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

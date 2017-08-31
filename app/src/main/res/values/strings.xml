@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimberApp</string>
+    <string name="custom_channel_name">TestChannel</string>
+</resources>
